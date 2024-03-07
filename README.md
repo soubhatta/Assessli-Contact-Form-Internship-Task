@@ -3,7 +3,7 @@
 This project is a React assignment for Assessli. It aims to create a dynamic and visually appealing contact page using React that can be easily integrated into your website to allow visitors to send you messages. The contact page includes a form with fields for name, email, phone, and message. The project integrates with Google Sheets, and the form data is being submitted to the where the proper working of the form can be checked.
 
 ## Deployed Link - [https://data-form-google-sheet.vercel.app/](https://assessli-contact-form-soumalya.vercel.app/)
-## Google Sheet Link - [https://docs.google.com/spreadsheets/d/1VapHovBWX465rAr-R6IlcHH44kuHUn5Zs_ag12BW_o0/edit#gid=0](https://docs.google.com/spreadsheets/d/1S10TgX1J6QuH6DDKoUG4G-3QX3hgvrz65J6wQ_neW0w/edit?usp=sharing)
+## Google Sheet Link - [[https://docs.google.com/spreadsheets/d/1VapHovBWX465rAr-R6IlcHH44kuHUn5Zs_ag12BW_o0/edit#gid=0](https://docs.google.com/spreadsheets/d/1xo_z8qvE0RI85VQEdNvK5MRnD4Ls-sEnmw12HuaNYgQ/edit#gid=0)]
 
 ## Getting Started with Create React App
 
@@ -58,7 +58,7 @@ Integrating Google Sheets with a React.js application using Google Apps Script i
 
 ## Google Sheets Integration
 
-The project integrates with Google Sheets, and the form data is being submitted to [[https://docs.google.com/spreadsheets/d/1S10TgX1J6QuH6DDKoUG4G-3QX3hgvrz65J6wQ_neW0w/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1VapHovBWX465rAr-R6IlcHH44kuHUn5Zs_ag12BW_o0/edit#gid=0)], where you can check the data submitted to the form.
+The project integrates with Google Sheets, and the form data is being submitted to [https://docs.google.com/spreadsheets/d/1S10TgX1J6QuH6DDKoUG4G-3QX3hgvrz65J6wQ_neW0w/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1xo_z8qvE0RI85VQEdNvK5MRnD4Ls-sEnmw12HuaNYgQ/edit#gid=0), where you can check the data submitted to the form.
   
 ## Additional Information
 
