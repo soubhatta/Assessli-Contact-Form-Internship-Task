@@ -45,7 +45,9 @@ Integrating Google Sheets with a React.js application using Google Apps Script i
 
 
 ## Features
-
+- Easy integration into any HTML/CSS/JS-based website.
+- Collects sender's name, email, and message or more fields can be added.
+- Sends messages to your Google Sheets using server-side processing.
 
 ## Setup Instructions
 
