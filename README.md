@@ -5,7 +5,7 @@ This project is a React assignment for Assessli. It aims to create a dynamic and
 ## Deployed Link - [https://data-form-google-sheet.vercel.app/](https://assessli-contact-form-soumalya.vercel.app/)
 ## Google Sheet Link - [https://docs.google.com/spreadsheets/d/1VapHovBWX465rAr-R6IlcHH44kuHUn5Zs_ag12BW_o0/edit#gid=0](https://docs.google.com/spreadsheets/d/1S10TgX1J6QuH6DDKoUG4G-3QX3hgvrz65J6wQ_neW0w/edit?usp=sharing)
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -60,12 +60,6 @@ Integrating Google Sheets with a React.js application using Google Apps Script i
 
 The project integrates with Google Sheets, and the form data is being submitted to [[https://docs.google.com/spreadsheets/d/1S10TgX1J6QuH6DDKoUG4G-3QX3hgvrz65J6wQ_neW0w/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1VapHovBWX465rAr-R6IlcHH44kuHUn5Zs_ag12BW_o0/edit#gid=0)], where you can check the data submitted to the form.
 
-## Additional Information
-
-- The project uses React for frontend development.
-- For any issues or suggestions, please contact me.
-Email: [soumalyabhatta19@gmail.com](mailto:soumalyabhatta19@gmail.com)
-
 ## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -74,3 +68,9 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  
+## Additional Information
+
+- The project uses React for frontend development.
+- For any issues or suggestions, please contact me.
+Email: [soumalyabhatta19@gmail.com](mailto:soumalyabhatta19@gmail.com)
