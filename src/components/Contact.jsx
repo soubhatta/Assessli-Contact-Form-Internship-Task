@@ -22,7 +22,7 @@ const Contact = () => {
     const sheetData = new FormData(formDataSet);
       // console.log(formDataSet);
     fetch(
-      "https://script.google.com/macros/s/AKfycbwLAZx4KlntJvJxQXAh4aEU7WZ0q-14f1FJr4nCfIXsXYOiZ05zZnLfKZnuIVx3BCymhw/exec",
+      "https://script.google.com/macros/s/AKfycbypN2pIynMAmRLEkTFo15Vporu3pD1LjeIP47ykCuxvf09eNWvF-jC_avu_dXr66BFDHA/exec",
       {
         method: "POST",
         body: sheetData,
