@@ -54,7 +54,7 @@ Integrating Google Sheets with a React.js application using Google Apps Script i
 1. Clone the repository: `git clone https://github.com/soubhatta/Assessli-Contact-Form-Internship-Task.git`
 2. Install dependencies: `npm install`
 3. Run the project: `npm run dev`
-4. Access the server at [http://localhost:3000](http://localhost:3000)
+4. Access the server at `http://localhost:3000`
 
 ## Google Sheets Integration
 
