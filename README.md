@@ -3,7 +3,7 @@
 This project is a React assignment for Assessli. It aims to create a dynamic and visually appealing contact page using React that can be easily integrated into your website to allow visitors to send you messages. The contact page includes a form with fields for name, email, phone, and message. The project integrates with Google Sheets, and the form data is being submitted to the where the proper working of the form can be checked.
 
 ## Deployed Link - [https://data-form-google-sheet.vercel.app/](https://assessli-contact-form-soumalya.vercel.app/)
-## Google Sheet Link - [https://docs.google.com/spreadsheets/d/1VapHovBWX465rAr-R6IlcHH44kuHUn5Zs_ag12BW_o0/edit#gid=0](https://docs.google.com/spreadsheets/d/1xo_z8qvE0RI85VQEdNvK5MRnD4Ls-sEnmw12HuaNYgQ/edit#gid=0)
+## Google Sheet Link - [https://docs.google.com/spreadsheets/d/1xo_z8qvE0RI85VQEdNvK5MRnD4Ls-sEnmw12HuaNYgQ/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1xo_z8qvE0RI85VQEdNvK5MRnD4Ls-sEnmw12HuaNYgQ/edit?usp=sharing)
 
 ## Getting Started with Create React App
 
